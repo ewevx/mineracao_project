@@ -98,6 +98,42 @@ Foram utilizadas três abordagens principais:
 - Boxplot → análise de dispersão e risco
 - Distribuição de lucro → comportamento dos cenários
 
+### Gráficos do Projeto
+
+#### 1. Comparação: Volume Médio vs REQM por Região
+
+![Volume Médio vs REQM](assets/volume_rmse_comparison.png)
+
+*Este gráfico compara o volume médio previsto com o erro quadrático médio (REQM) para cada região.*
+
+---
+
+#### 2. Comparação: Volume Médio vs Break-even
+
+![Volume Médio vs Break-even](assets/break_even_comparison.png)
+
+*Gráfico comparando o volume médio previsto de cada região com o ponto de equilíbrio (break-even).*
+
+---
+
+#### 3. Lucro Estimado por Região (Top 200 Poços)
+
+![Lucro Estimado](assets/profit_comparison.png)
+
+*Lucro estimado para cada região considerando os 200 poços com maior potencial.*
+
+---
+
+#### 4. Distribuição de Lucro por Região (Boxplot)
+
+![Boxplot de Lucro](assets/boxplot_profit.png)
+
+*Boxplot mostrando a distribuição dos lucros simulados por região. A linha tracejada indica o ponto de prejuízo.*
+
+---
+
+> **Nota:** Os gráficos acima são gerados automaticamente ao executar o notebook [project.ipynb](notebook/project.ipynb).
+
 ---
 
 ## Resultado Final
