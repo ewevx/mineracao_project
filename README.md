@@ -82,11 +82,11 @@ Seleção Top 200 → Cálculo de Lucro → Bootstrapping → Decisão Final
 
 ## Resultados
 
-| Região   | Lucro Médio | IC 95%          | Risco     |
-| -------- | ----------- | --------------- | --------- |
-| Região 0 | $4.44M      | [-1.08M, 9.67M] | 4.90%     |
-| Região 1 | **$4.93M**  | [1.01M, 9.02M]  | **0.80%** |
-| Região 2 | $3.41M      | [-1.98M, 9.00M] | 10.40%    |
+| Região   | Lucro Médio | Intervalo de Confiança 95% | Risco     |
+| -------- | ----------- | -------------------------- | --------- |
+| Região 0 | $4.44M      |      [-1.08M, 9.67M]       | 4.90%     |
+| Região 1 | **$4.93M**  |      [1.01M, 9.02M]        | **0.80%** |
+| Região 2 | $3.41M      |      [-1.98M, 9.00M]       | 10.40%    |
 
 ---
 
