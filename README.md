@@ -63,7 +63,7 @@ Seleção Top 200 → Cálculo de Lucro → Bootstrapping → Decisão Final
 - Investimento total: **$100 milhões**
 - Poços selecionados: **200**
 - Receita por unidade: **$4.500**
-- Break-even: **~111 unidades por poço**
+- Break-even (ponto de equilibrio): **~111 unidades por poço**
 
 ### 4. Cálculo de Lucro
 
@@ -82,11 +82,11 @@ Seleção Top 200 → Cálculo de Lucro → Bootstrapping → Decisão Final
 
 ## Resultados
 
-| Região   | Lucro Médio | IC 95%          | Risco     |
-| -------- | ----------- | --------------- | --------- |
-| Região 0 | $4.44M      | [-1.08M, 9.67M] | 4.90%     |
-| Região 1 | **$4.93M**  | [1.01M, 9.02M]  | **0.80%** |
-| Região 2 | $3.41M      | [-1.98M, 9.00M] | 10.40%    |
+| Região   | Lucro Médio | Intervalo de Confiança 95% | Risco     |
+| -------- | ----------- | -------------------------- | --------- |
+| Região 0 | $4.44M      |      [-1.08M, 9.67M]       | 4.90%     |
+| Região 1 | **$4.93M**  |      [1.01M, 9.02M]        | **0.80%** |
+| Região 2 | $3.41M      |      [-1.98M, 9.00M]       | 10.40%    |
 
 ---
 
@@ -150,7 +150,7 @@ Foram utilizadas três abordagens principais:
 
 ## Principais Insights
 
-- A Média geral não é suficiente para decisão, os **melhores poços (top 200)** determinam o lucro, da regiões lucrativas podem esconder alto risco, sendo o **Bootstrapping** é essencial para decisões robustas
+- A Média geral não é suficiente para a tomada de decisão, sendo os **melhores poços (top 200)** que determinam o lucro das regiões mais lucrativas, mas que podem esconder alto risco. Sendo assim, o **Bootstrapping** é essencial para decisões robustas
 
 ---
 
