@@ -114,7 +114,7 @@ Foram utilizadas três abordagens principais:
 
 ## Principais Insights
 
-- A Média geral não é suficiente para decisão, os **melhores poços (top 200)** determinam o lucro, da regiões lucrativas podem esconder alto risco, sendo o **Bootstrapping** é essencial para decisões robustas
+- A Média geral não é suficiente para a tomada de decisão, sendo os **melhores poços (top 200)** que determinam o lucro das regiões mais lucrativas, mas que podem esconder alto risco. Sendo assim, o **Bootstrapping** é essencial para decisões robustas
 
 ---
 
