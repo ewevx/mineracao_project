@@ -63,7 +63,7 @@ Seleção Top 200 → Cálculo de Lucro → Bootstrapping → Decisão Final
 - Investimento total: **$100 milhões**
 - Poços selecionados: **200**
 - Receita por unidade: **$4.500**
-- Break-even: **~111 unidades por poço**
+- Break-even (ponto de equilibrio): **~111 unidades por poço**
 
 ### 4. Cálculo de Lucro
 
